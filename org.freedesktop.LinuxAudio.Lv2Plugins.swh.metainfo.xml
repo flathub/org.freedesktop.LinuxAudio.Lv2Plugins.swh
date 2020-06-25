@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
   <id>org.freedesktop.LinuxAudio.Lv2Plugins.swh</id>
-  <extends>org.freedestkop.LinuxAudio.BaseExtension.desktop</extends>
-  <name>swh LV2 audio plugins</name>
-  <summary>swh LV2 audio plugins</summary>
+  <extends>org.freedestkop.LinuxAudio.BaseExtension</extends>
+  <name>SWH</name>
+  <summary>SWH LV2 plugins</summary>
   <url type="homepage">http://plugin.org.uk/</url>
   <project_license>GPL-3.0+</project_license>
   <metadata_license>CC0-1.0</metadata_license>
